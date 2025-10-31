@@ -49,13 +49,21 @@ A CNN-based malware classifier analyzing **network traffic patterns**.
 
 ### 📜 Certifications
 🎖️ **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** - Oracle
+
 🎖️ **GitLab CI Fundamentals** - GitLab Univerisy
+
 🎖️ **Introduction to DevOps & Site Reliability Engineering** – Linux Foundation
+
 🎖️ **Introduction to Kubernetes (LFS158)** – Linux Foundation
+
 🎖️ **Introduction to Jenkins (LFS167)** - Linux Foundation
+
 🎖️ **Oracle Cloud Infrastructure Foundations Associate 2025** - Oracle
+
 🎖️ **AWS Educate Cloud 101**
+
 🎖️ **Networking Basics** – Cisco Networking Academy
+
 🎖️ **Docker for Beginners** – KodeKloud  
 
 ---
